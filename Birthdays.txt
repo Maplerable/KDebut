@@ -3,3 +3,5 @@ Birthday occur every year.
 Many religions celebrate the birth of their founders or religious figures with special holidays (e.g. Christmas, Mawlid, Buddha's Birthday, and Krishna Janmashtami).
 
 There is a distinction between birthday and birthdate: The former, other than February 29, occurs each year (e.g. January 15), while the latter is the exact date a person was born (e.g., January 15, 2001).
+
+I copied the original text from the Birthdays.txt data and put some extra text into this file, to see how it looks when the merging begins.
